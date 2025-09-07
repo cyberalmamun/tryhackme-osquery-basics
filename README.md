@@ -1,13 +1,4 @@
-# Osquery: The Basics – TryHackMe  
 
-This repository contains my notes and screenshots from the [TryHackMe room: Osquery - The Basics](https://tryhackme.com/room/osquerythebasics).  
-
-## 📝 Room Overview  
-- Learn how to use **Osquery** to query system information  
-- Understand the basic commands and SQL-style queries  
-- Practice monitoring processes, users, and network activity  
-
-## ✅ Tasks Completed  
 1. **Introduction to Osquery**  
    - Installed and launched `osqueryi` interactive shell  
    - Checked available tables with `.tables`  
