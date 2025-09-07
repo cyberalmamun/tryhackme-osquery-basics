@@ -31,13 +31,7 @@ This repository contains my notes and screenshots from the [TryHackMe room: Osqu
    - Checked file integrity metadata  
 
 ## 📸 Screenshots  
-*(Proof of completion will be added here)*  
 
-- Task 1: [screenshot]  
-- Task 2: [screenshot]  
-- Task 3: [screenshot]  
-- Task 4: [screenshot]  
-- Task 5: [screenshot]  
 
 ## 🚀 Notes  
 - Osquery uses **SQL-like syntax** to query system data.  
