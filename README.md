@@ -35,6 +35,7 @@ This repository contains my notes and screenshots from the [TryHackMe room: Osqu
 <img width="1900" height="972" alt="Screenshot 2025-09-09 at 9 00 06 PM" src="https://github.com/user-attachments/assets/be54aa05-0ffa-420b-8636-d714f1c9c804" />
 
 
+
 ## 🚀 Notes  
 - Osquery uses **SQL-like syntax** to query system data.  
 - Helpful commands:  
@@ -43,3 +44,4 @@ This repository contains my notes and screenshots from the [TryHackMe room: Osqu
   .tables         # List available tables
   .schema users   # View schema for 'users' table
   SELECT * FROM users;  # Example query
+  select gid, uid, description, username, directory from users;
