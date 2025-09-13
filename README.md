@@ -44,6 +44,19 @@ This repository contains my notes and screenshots from the [TryHackMe room: Osqu
 <img width="1865" height="932" alt="Screenshot 2025-09-12 at 4 16 30 PM" src="https://github.com/user-attachments/assets/e1543b8d-7a4f-4a72-88d0-3b988e980c9e" />
 <img width="1865" height="932" alt="Screenshot 2025-09-12 at 4 18 34 PM" src="https://github.com/user-attachments/assets/a2997837-8684-4d9f-9a17-dbf08aca59d3" />
 
+<img width="1745" height="966" alt="Screenshot 2025-09-13 at 9 56 47 PM" src="https://github.com/user-attachments/assets/bf5f93a7-97ef-4d78-915e-441e82e0790f" />
+
+<img width="1745" height="966" alt="Screenshot 2025-09-13 at 9 57 02 PM" src="https://github.com/user-attachments/assets/2fd4d918-cf76-4d98-957f-664482b96e62" />
+
+<img width="1745" height="966" alt="Screenshot 2025-09-13 at 9 58 57 PM" src="https://github.com/user-attachments/assets/59ca6b79-9836-414d-a03d-fd0364c8475d" />
+<img width="1745" height="966" alt="Screenshot 2025-09-13 at 10 00 09 PM" src="https://github.com/user-attachments/assets/dbdd8251-1dd9-48c6-a128-c08ab98ce403" />
+
+<img width="1745" height="966" alt="Screenshot 2025-09-13 at 10 03 05 PM" src="https://github.com/user-attachments/assets/59d0b70a-cea2-43c6-aec0-4f562a4c19fa" />
+
+<img width="1745" height="966" alt="Screenshot 2025-09-13 at 10 05 29 PM" src="https://github.com/user-attachments/assets/e1758971-fc97-4315-8f04-74298dc177cd" />
+
+
+
 
 
 
